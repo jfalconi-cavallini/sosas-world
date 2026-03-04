@@ -9,6 +9,15 @@ export const metadata: Metadata = {
     title: "Sosa's World Smoke Shop",
     description: "Your out-of-this-world smoke shop.",
     type: 'website',
+    url: 'https://sosas-world.vercel.app',
+    images: [
+      {
+        url: "https://sosas-world.vercel.app/images/sosa-logo.PNG",
+        width: 1200,
+        height: 630,
+        alt: "Sosa's Smoke Shop",
+      }
+    ],
   },
 }
 
