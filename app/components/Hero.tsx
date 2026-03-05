@@ -94,7 +94,7 @@ export default function Hero() {
                 }}>
                     Out-of-this-world selection. Down-to-earth prices.
                     <br />
-                    <span style={{ color: '#b44fff' }}>Haltom City's premier smoke shop.</span>
+                    <span style={{ color: '#b44fff' }}>DFW's premier smoke shop.</span>
                 </p>
 
                 {/* CTA Buttons */}
